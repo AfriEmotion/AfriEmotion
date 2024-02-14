@@ -1,4 +1,10 @@
-# AfriEmotion
+<p align="center">
+  <img align="center" src="assests/logo.png" />
+
+  <h1 align="center">Emotion Detection Dataset for African Languages</h1>
+</p>
+
+# Project Description
 
 <div align="justify">
 Emotion is a universal human phenomenon that affects our communication, behavior, and cognition. However, emotion expression and perception can vary across different languages and cultures. Therefore, it is important to study how emotion is conveyed and understood in different languages, especially in low-resource languages that have limited or no available resources for natural language processing (NLP).
