@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="assests/logo.png" />
+  <img align="center" src="assets/logo.png" />
 
   <h1 align="center">Emotion Detection Dataset for African Languages</h1>
 </p>
