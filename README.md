@@ -4,6 +4,10 @@
   <h1 align="center">Emotion Detection Dataset for African Languages</h1>
 </p>
 
+
+The dataset Release Coming Soon! For inquiries and collaboration, feel free to reach out to us.
+
+
 # Project Description
 
 <div align="justify">
