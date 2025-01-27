@@ -55,14 +55,14 @@ This is a collaborative project with team members from different universities, i
 
 | Name | Affiliation|
 |----------|-----------------|
-| Shamsudden Muhammad  | Bayero University, Kano Nigeria; MasaKhane |
+| Shamsudden Hassan Muhammad  | Bayero University, Kano Nigeria; MasaKhane |
 | Esubalew Alemneh 	| Bahir Dar University, Bahir Dar, Ethiopia |
 | Ibrahim Said Ahmad  |  Northeastern University; Bayero University Kano; MasaKhane |
 | Seid Muhie Yimam  | University of Humberg; MasaKhane; EthioNLP |
 | Idris Abdulmumin  | Ahmadu Bello University, Zaria, Nigeria |
 | Abinew Ali Ayele |  Bahir Dar University; EthioNLP |
 | David Ifeoluwa Adelani | MasaKhane; Saarland University   |
-| Saminu Aliyu  | Bayero University, Kano; MasaKhane |
+| Saminu Mohammad Aliyu  | Bayero University, Kano; MasaKhane |
 | Nedjma Ousidhoum | University of Cambridge|
 
 # Shared Task 
