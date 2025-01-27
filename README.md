@@ -55,7 +55,7 @@ This is a collaborative project with team members from different universities, i
 
 | Name | Affiliation|
 |----------|-----------------|
-| Shamsudden Hassan Muhammad  | Bayero University, Kano Nigeria; MasaKhane |
+| Shamsuddeen Hassan Muhammad  | Bayero University, Kano Nigeria; MasaKhane |
 | Esubalew Alemneh 	| Bahir Dar University, Bahir Dar, Ethiopia |
 | Ibrahim Said Ahmad  |  Northeastern University; Bayero University Kano; MasaKhane |
 | Seid Muhie Yimam  | University of Humberg; MasaKhane; EthioNLP |
