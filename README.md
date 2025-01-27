@@ -29,24 +29,21 @@ This project will contribute to the advancement of NLP research and applications
 ----------------
 | # | Language | Country | Language Coordinators|
 |----------|-----------|----------|-----------------|
-| 1. | Hausa | Nigeria | |
-| 2. | Yoruba | Nigeria | |
-| 3. | Igbo | Nigeria | |
-| 4. | Nigerian-Pidgin | Nigeria | |
+| 1. | Hausa | Nigeria |Murja Sani Gadanya |
+| 2. | Yoruba | Nigeria |David Ifeoluwa Adelani |
+| 3. | Igbo | Nigeria |Chiamaka Ijeoma Chukwuneke |
+| 4. | Nigerian-Pidgin | Nigeria |Saminu Mohammad Aliyu |
 | 5. | Amharic | Ethiopia | |
 | 6. | Tigrinya | Ethiopia | |
 | 7. | Oromo | Ethiopia |  |
 | 8. | Somali | Ethiopia |  |
-| 9. | Twi | Ghana | |
-| 10. | Swahili | Kenya | |
-| 11. | Moroccan Arabic | Morocco |  |
-| 12. | Mozambican Portuguese | Mozambique |  |
-| 13. | Kinyarwanda | Rwanda |  |
-| 14. | isiZulu | South Africa | |
-| 15. | Afrikaans | South Africa | |
-| 16. | isiXhosa | South Africa |  |
-| 17. | Sudanese Arabic | Sudan |  |
-| 18. | Algerian Arabic | Algeria |  |
+| 9. | Twi | Ghana |Abigail Oppong |
+| 10. | Swahili | Kenya |Lilian D. A. Wanzare |
+| 11. | Moroccan Arabic | Morocco |Oumaima Hourrane |
+| 12. | Kinyarwanda | Rwanda | Samuel Rutunda |
+| 13. | isiZulu | South Africa |Rooweither Mabuya |
+| 14. | isiXhosa | South Africa |Andiswa Bukula |
+| 15. | Algerian Arabic | Algeria | Nedjma Ousidhoum |
 
 
 
