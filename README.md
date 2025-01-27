@@ -64,6 +64,6 @@ This is a collaborative project with team members from different universities, i
 | Saminu Aliyu  | Bayero University, Kano; MasaKhane |
 | Nedjma Ousidhoum | University of Cambridge|
 
-# Shared Task Proposal
+# Shared Task 
 
-To extend the reach of emotion classification data on a global scale, we are organzing a [SemEval shared task 2025](https://github.com/emotion-analysis-project/SemEval2025-task11) . Leveraging datasets sponsored by the Lucuna fund, our initiative encompasses over 12 additional languages, predominantly focusing on low-resource languages in Asia and Latin America. This shared task not only facilitates broader utilization of the dataset but also propels research in low-resource languages worldwide.
+To extend the reach of emotion classification data on a global scale, we are organzing a [SemEval shared task 2025](https://github.com/emotion-analysis-project/SemEval2025-task11). Leveraging datasets sponsored by the Lucuna fund, our initiative encompasses over 12 additional languages, predominantly focusing on low-resource languages in Asia and Latin America. This shared task not only facilitates broader utilization of the dataset but also propels research in low-resource languages worldwide.
