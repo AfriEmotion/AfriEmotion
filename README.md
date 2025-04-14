@@ -23,6 +23,10 @@ The main objectives of this project are:
 
 This project will contribute to the advancement of NLP research and applications for African languages, and to the understanding of emotion as a universal and diverse human phenomenon.
 
+cite our papers: 
+1. [Exploring Cultural Nuances in Emotion Perception Across 15 African Languages](https://arxiv.org/pdf/2503.19642?)
+2. [BRIGHTER: BRIdging the Gap in Human-Annotated Textual EmotionRecognition Datasets for 28 Languages](https://arxiv.org/pdf/2502.11926?)
+
 </div>
 
 # Languages and Coordinators
